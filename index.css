@@ -1,0 +1,139 @@
+* {
+    margem : 0 ;
+    tamanho da fonte : 16 px ;
+    família da fonte : 'Montserrat' , sans-serif;
+    tamanho da caixa : caixa de conteúdo;
+}
+h2 {
+    tamanho da fonte : 21 px ;
+    peso da fonte : 700 ;
+}
+. container-header {
+    cor de fundo : preto;
+    display : flex;
+    flex-wrap : wrap;
+    alinhar-itens : centro;
+    justify-content : espaço entre;
+}
+. container-header  img {
+    largura : 30 % ;
+}
+. container-a-header {
+    display : flex;
+    margem : 30 px ;
+}
+. container-a-header  a {
+    linha de decoração de texto : nenhum;
+    cor : branco;
+    margem : 10 px ;
+}
+. container-a-header  a : hover {
+    cor de fundo : cadetblue;
+}
+. container-main  div  img {
+    largura : 100 % ;
+}
+. container-main-asile {
+    display : flex;
+    flex-wrap : wrap;
+    justify-content : space-around;
+    alinhamento de texto : justificar;
+    cor de fundo: branco;  
+    margem : 50 px  0 ;
+}
+. container-main-asile-art {
+    largura : 260 px ;
+    preenchimento : 16 px ;
+}
+. container-main-asile-art  h2 {
+    margem : 20 px  0 ;
+}
+. container-main-asile-art  p {
+    margem : 20 px  0 ;
+ }
+. container-sect1 {
+    display : flex;
+    justify-content : space-around;
+    cor de fundo : madeira compensada;
+    alinhamento de texto : justificar;
+}
+. container-sect1-art1 {
+    largura : 25 % ;
+    preenchimento : 16 px ;
+}
+. container-sect1-art2 {
+    largura : 25 % ;
+    preenchimento : 16 px ;
+}
+. container-sect1-art3 {
+    largura : 50 % ;
+    preenchimento : 16 px ;
+}
+. container-sect1-art1  h2 {
+    margem : 20 px  0 ;
+}
+. container-sect1-art2  h2 {
+    margem : 20 px  0 ;
+}
+. container-sect1-art3  h2 {
+    margem : 20 px  0 ;
+} 
+. container-sect1-art3  p {
+    margem : 20 px  0 ;
+}
+. div1-div11 {
+    display : flex;
+    margem : 20 px  0 ;
+}
+. div1-div11  figcaption {
+    margem superior : 10 px ;
+    margem esquerda : 20 px ;
+}
+. div2-div21 {
+    display : flex;
+    margem : 20 px  0 ;
+}
+. div2-div21  figcaption {
+    margem superior : 10 px ;
+    margem esquerda : 20 px ;
+}
+
+. container-sect2 {
+    display : flex;
+    cor de fundo : castanho-amarelado;
+    justify-content : espaço entre;  
+    alinhamento de texto : justificar;
+}
+. container-sect2-art-div  h2 {
+    margem : 20 px  0 ;
+}
+. container-sect2-art-div  p {
+    margem : 20 px  0 ;
+}
+. container-sect2-art1 {
+    largura : 60 % ;
+    preenchimento : 16 px ;
+}
+. container-sect2-art2  h2 {
+    margem : 20 px  0 ;
+}
+. container-sect2-art-nav  li {
+    margem : 20 px  0 ;
+}
+. container-sect2-art2 {
+    largura : 40 % ;
+    preenchimento : 16 px ;
+}
+. container-footer {
+    display : flex;
+    justificar o conteúdo : centro;
+    cor de fundo : marrom;
+    largura : 100 % ;
+    altura : 100 px ;
+}
+. container-footer  h5 {
+    tamanho da fonte : 10 px ;
+    alinhar-se : centro;
+}
+
+
